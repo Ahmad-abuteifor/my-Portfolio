@@ -222,3 +222,42 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+
+
+Number and name of feature: ________imges ________________________
+
+Estimate of time needed to complete: ___3 hours __
+
+Start time: ___1 pm __
+
+Finish time: ___2 pm __
+
+Actual time needed to complete: ____1 hours_
+
+
+
+
+
+Number and name of feature: change the text  ________________________
+
+Estimate of time needed to complete: ___1 hours __
+
+Start time: ___2:30 pm __
+
+Finish time: ___3 pm __
+
+Actual time needed to complete: ____30 minutes _
+
+
+
+Number and name of feature: making netlify  ________________________
+
+Estimate of time needed to complete: ___30mintus  __
+
+Start time: ___3:30 pm __
+
+Finish time: ___5 pm __
+
+Actual time needed to complete: _1:30___ hours_
