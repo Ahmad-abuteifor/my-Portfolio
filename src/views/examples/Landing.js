@@ -18,13 +18,13 @@
 import React from "react";
 // nodejs library that concatenates classes
 import classnames from "classnames";
-import promo1 from "assets/img/theme/promo-1.png";
+import promo1 from "assets/img/theme/elite.png";
 import cardImg from "assets/img/theme/img-1-1200x1000.jpg";
 import ill2 from "assets/img/ill/ill-2.svg";
 import team1 from "assets/img/theme/team-1-800x800.jpg";
 import team2 from "assets/img/theme/team-2-800x800.jpg";
 import team3 from "assets/img/theme/team-3-800x800.jpg";
-import team4 from "assets/img/theme/team-4-800x800.jpg";
+import team4 from "assets/img/theme/ahmadTayfor.jpg";
 
 // reactstrap components
 import {
@@ -260,11 +260,9 @@ Elite Academy                           </h6>
                     <div className="icon icon-lg icon-shape icon-shape-success shadow rounded-circle mb-5">
                       <i className="ni ni-settings-gear-65" />
                     </div>
-                    <h3>Awesome features</h3>
+                    <h3>Elite Academy</h3>
                     <p>
-                      The kit comes with three pre-built pages to help you get
-                      started faster. You can change the text and images and
-                      you're good to go.
+                      this how our webcite look like it desined for giving the students and any one looking for a certification in many feelds 
                     </p>
                     <ul className="list-unstyled mt-5">
                       <li className="py-2">
@@ -322,7 +320,7 @@ Elite Academy                           </h6>
               </Row>
             </Container>
           </section>
-          <section className="section bg-secondary">
+          {/* <section className="section bg-secondary">
             <Container>
               <Row className="row-grid align-items-center">
                 <Col md="6">
@@ -392,8 +390,9 @@ Elite Academy                           </h6>
                 </Col>
               </Row>
             </Container>
-          </section>
-          <section className="section pb-0 bg-gradient-warning">
+          </section> */}
+
+          {/* <section className="section pb-0 bg-gradient-warning">
             <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-lg-2 ml-lg-auto" md="6">
@@ -480,7 +479,7 @@ Elite Academy                           </h6>
                 </Col>
               </Row>
             </Container>
-            {/* SVG separator */}
+            SVG separator
             <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -496,16 +495,14 @@ Elite Academy                           </h6>
                 />
               </svg>
             </div>
-          </section>
+          </section> */}
           <section className="section section-lg">
             <Container>
               <Row className="justify-content-center text-center mb-lg">
                 <Col lg="8">
                   <h2 className="display-3">The amazing Team</h2>
                   <p className="lead text-muted">
-                    According to the National Oceanic and Atmospheric
-                    Administration, Ted, Scambos, NSIDClead scentist, puts the
-                    potentially record maximum.
+                    according to the Elite Academy we have such  agreat groub  
                   </p>
                 </Col>
               </Row>
@@ -520,7 +517,7 @@ Elite Academy                           </h6>
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">Ryan Tompson</span>
+                        <span className="d-block mb-1">Essam omar </span>
                         <small className="h6 text-muted">Web Developer</small>
                       </h5>
                       <div className="mt-3">
@@ -562,7 +559,7 @@ Elite Academy                           </h6>
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">Romina Hadid</span>
+                        <span className="d-block mb-1">hannen hadey  </span>
                         <small className="h6 text-muted">
                           Marketing Strategist
                         </small>
@@ -606,7 +603,7 @@ Elite Academy                           </h6>
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">Alexander Smith</span>
+                        <span className="d-block mb-1">abdalraheem </span>
                         <small className="h6 text-muted">UI/UX Designer</small>
                       </h5>
                       <div className="mt-3">
@@ -648,8 +645,8 @@ Elite Academy                           </h6>
                     />
                     <div className="pt-4 text-center">
                       <h5 className="title">
-                        <span className="d-block mb-1">John Doe</span>
-                        <small className="h6 text-muted">Founder and CEO</small>
+                        <span className="d-block mb-1">Ahmad abuteifor</span>
+                        <small className="h6 text-muted">Developer and CEO</small>
                       </h5>
                       <div className="mt-3">
                         <Button
