@@ -94,7 +94,7 @@ class Profile extends React.Component {
                         >
                           Connect
                         </Button>
-                        <Button
+                        {/* <Button
                           className="float-right"
                           color="default"
                           href="#pablo"
@@ -102,7 +102,7 @@ class Profile extends React.Component {
                           size="sm"
                         >
                           Message
-                        </Button>
+                        </Button> */}
                       </div>
                     </Col>
                     <Col className="order-lg-1" lg="4">
@@ -112,8 +112,8 @@ class Profile extends React.Component {
                           <span className="description">Friends</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">201</span>
+                          <span className="description">201class</span>
                         </div>
                         <div>
                           <span className="heading">89</span>
